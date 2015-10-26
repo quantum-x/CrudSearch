@@ -1,0 +1,12 @@
+{
+  "name":"quantum-x/CakeSearch",
+  "version": "0.1.0",
+  "description":"Simple search action for CRUD",
+  "type":"cakephp-plugin",
+  "require":{
+    "FriendsOfCake/crud":"3.*"
+  },
+  "extra": {
+    "installer-name": "CrudSearch"
+  }
+}
