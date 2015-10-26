@@ -1,5 +1,5 @@
 {
-  "name":"quantum-x/CakeSearch",
+  "name":"quantum-x/CrudSearch",
   "version": "0.1.0",
   "description":"Simple search action for CRUD",
   "type":"cakephp-plugin",
